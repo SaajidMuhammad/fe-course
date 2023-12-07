@@ -1,20 +1,16 @@
-// To Learn
+// ToDO
 
-// Next (React)
-   // ---> SSR/CSR
-   // ---> routing
-  
-   
+// UI Improve
+// Add to Cart / remove
+// Cart UI - tailwindCSs
+// Single UI
 
-// TypeScript
-// TailwindCSS
-// Redux (State Managment)
+// TS --- 
+// REdux async 
 
 
+// 12 
 
-// Todo
 
-// --> Pages
-//   Home
-//   DetailedPage
-//   Cart Page
+// logi
+
